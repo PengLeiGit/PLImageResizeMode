@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLImageResizeMode_Example' do
+  pod 'PLImageResizeMode', :path => '../'
+
+  target 'PLImageResizeMode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - PLImageResizeMode (0.1.0)
+
+DEPENDENCIES:
+  - PLImageResizeMode (from `../`)
+
+EXTERNAL SOURCES:
+  PLImageResizeMode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLImageResizeMode: 0af66dc11a009a303d85812614001f07f1ac3452
+
+PODFILE CHECKSUM: f3e8c1e09ac210326f2d5685631470d4b01e351b
+
+COCOAPODS: 1.9.1
